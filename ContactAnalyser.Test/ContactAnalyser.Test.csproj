@@ -67,7 +67,7 @@
       <Project>{04A8BCEC-105E-481B-8089-779940679565}</Project>
       <Name>ContactAnalyser.Contracts</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ContactAnalyser.Services\ContactAnalyser.Domain.csproj">
+    <ProjectReference Include="..\ContactAnalyser.Domain\ContactAnalyser.Domain.csproj">
       <Project>{9E51A97B-31D9-4300-A097-6CB54BA1E553}</Project>
       <Name>ContactAnalyser.Domain</Name>
     </ProjectReference>

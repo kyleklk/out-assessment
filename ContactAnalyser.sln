@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAnalyser.Contracts",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAnalyser.Test", "ContactAnalyser.Test\ContactAnalyser.Test.csproj", "{25895AC0-A314-4B3B-82A6-D40C9099C5C6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAnalyser.Domain", "ContactAnalyser.Services\ContactAnalyser.Domain.csproj", "{9E51A97B-31D9-4300-A097-6CB54BA1E553}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactAnalyser.Domain", "ContactAnalyser.Domain\ContactAnalyser.Domain.csproj", "{9E51A97B-31D9-4300-A097-6CB54BA1E553}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
